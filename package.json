@@ -1,0 +1,9 @@
+{
+  "name": "@anthropic/pi-themes",
+  "version": "1.0.0",
+  "description": "Theme collection: neapple + onedark-pro",
+  "keywords": ["pi-package"],
+  "pi": {
+    "themes": ["./themes"]
+  }
+}
