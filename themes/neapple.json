@@ -13,18 +13,18 @@
     "yellow": "#f2c94c",
     "purple": "#c586c0",
     "text": "#e8dcc0",
-    "muted": "#b0b0b0",
+    "muted": "#8a8380",
     "dim": "#a69682",
-    "border": "#6b6f73",
-    "borderMuted": "#6b6f73",
-    "bg": "#1a1d1e",
-    "bgCard": "#1e2122",
-    "bgSubtle": "#25282a",
+    "border": "#4d4947",
+    "borderMuted": "#3d3a39",
+    "bg": "#1f1d1c",
+    "bgCard": "#2e2c2b",
+    "bgSubtle": "#3d3a39",
     "userMsgBg": "",
     "toolPendingBg": "",
     "toolSuccessBg": "",
     "toolErrorBg": "",
-    "customMsgBg": "#1e2122"
+    "customMsgBg": "#2e2c2b"
   },
   "colors": {
     "accent": "accent",
@@ -95,18 +95,18 @@
     "assistantPrefixColor": "#c45614",
     "userPrefixColor": "#b0a890",
     "dividerChar": "─",
-    "dividerColor": "#3e3830",
+    "dividerColor": "#3d3a39",
     "showDivider": "false",
     "quoteStyle": "true",
     "userPrefix": "│",
     "quoteColor": "#7bba5e",
-    "inputBorderColor": "#b0b0b0",
+    "inputBorderColor": "#5c5855",
     "bashPromptColor": "#05ff03",
     "tagBgColor": "#df9f72",
     "slashSelectedColor": "#d26825",
     "slashCommandColor": "#e8dcc0",
     "slashDescriptionColor": "#8f8a85",
     "slashHintColor": "#8f8a85",
-    "userBoxBorderColor": "#906c50"
+    "userBoxBorderColor": "#4d4947"
   }
 }
