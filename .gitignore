@@ -1,0 +1,35 @@
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Dependencies/build outputs
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Local env/secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs/temp
+*.log
+*.tmp
+.tmp/
+tmp/
+
+# VHS/generated video artifacts; README tracks PNG previews only
+docs/assets/*.gif
+docs/assets/*.mp4
+docs/assets/*.webm
+docs/assets/*.mov
+docs/assets/*.frames/
+docs/assets/*-frames/
