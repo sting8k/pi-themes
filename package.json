@@ -1,8 +1,26 @@
 {
-  "name": "@anthropic/pi-themes",
+  "name": "pi-themes",
   "version": "1.0.0",
-  "description": "Theme collection: neapple + onedark-pro",
-  "keywords": ["pi-package"],
+  "description": "Custom theme collection for Pi Coding Agent",
+  "keywords": [
+    "pi-package",
+    "pi-themes",
+    "pi-coding-agent",
+    "themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sting8k/pi-themes.git"
+  },
+  "homepage": "https://github.com/sting8k/pi-themes#readme",
+  "bugs": {
+    "url": "https://github.com/sting8k/pi-themes/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "themes",
+    "README.md"
+  ],
   "pi": {
     "themes": ["./themes"]
   }
