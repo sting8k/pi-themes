@@ -38,7 +38,6 @@
     "dim": "dim",
     "text": "text",
     "thinkingText": "muted",
-
     "selectedBg": "bgSubtle",
     "userMessageBg": "userMsgBg",
     "userMessageText": "text",
@@ -50,7 +49,6 @@
     "toolErrorBg": "toolErrorBg",
     "toolTitle": "accent",
     "toolOutput": "muted",
-
     "mdHeading": "accentBright",
     "mdLink": "accent",
     "mdLinkUrl": "muted",
@@ -61,11 +59,9 @@
     "mdQuoteBorder": "border",
     "mdHr": "border",
     "mdListBullet": "accent",
-
     "toolDiffAdded": "green",
     "toolDiffRemoved": "red",
     "toolDiffContext": "dim",
-
     "syntaxComment": "dim",
     "syntaxKeyword": "accentBright",
     "syntaxFunction": "accent",
@@ -75,14 +71,12 @@
     "syntaxType": "accentBright",
     "syntaxOperator": "muted",
     "syntaxPunctuation": "muted",
-
     "thinkingOff": "borderMuted",
     "thinkingMinimal": "dim",
     "thinkingLow": "dim",
     "thinkingMedium": "dim",
     "thinkingHigh": "dim",
     "thinkingXhigh": "dim",
-
     "bashMode": "accent"
   },
   "export": {
@@ -91,22 +85,24 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "◇",
+    "assistantPrefix": "\u25c7",
     "assistantPrefixColor": "#73a7b3",
     "userPrefixColor": "#8a8580",
-    "dividerChar": "─",
+    "dividerChar": "\u2500",
     "dividerColor": "#3e3e3e",
     "showDivider": "false",
     "quoteStyle": "true",
-    "userPrefix": "│",
+    "userPrefix": "\u2502",
     "quoteColor": "#73a7b3",
-    "inputBorderColor": "#4a4a4a",
+    "inputBorderColor": "#73a7b3",
     "bashPromptColor": "#81a383",
     "tagBgColor": "#73a7b3",
     "slashSelectedColor": "#9497c7",
     "slashCommandColor": "#c8c2bb",
     "slashDescriptionColor": "#8a8580",
     "slashHintColor": "#716d68",
-    "userBoxBorderColor": "#4a4a4a"
+    "userBoxBorderColor": "#4a4a4a",
+    "parensTextColor": "#73a7b3",
+    "parensBracketColor": "#9497c7"
   }
 }

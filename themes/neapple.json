@@ -17,14 +17,14 @@
     "dim": "#a69682",
     "border": "#4d4947",
     "borderMuted": "#3d3a39",
-    "bg": "#1f1d1c",
-    "bgCard": "#2e2c2b",
-    "bgSubtle": "#3d3a39",
+    "bg": "#262321",
+    "bgCard": "#332f2d",
+    "bgSubtle": "#403b38",
     "userMsgBg": "",
-    "toolPendingBg": "",
-    "toolSuccessBg": "",
-    "toolErrorBg": "",
-    "customMsgBg": "#2e2c2b"
+    "toolPendingBg": "#2c2927",
+    "toolSuccessBg": "#2c2927",
+    "toolErrorBg": "#2c2927",
+    "customMsgBg": "#332f2d"
   },
   "colors": {
     "accent": "accent",
@@ -38,7 +38,6 @@
     "dim": "dim",
     "text": "text",
     "thinkingText": "muted",
-
     "selectedBg": "bgSubtle",
     "userMessageBg": "userMsgBg",
     "userMessageText": "text",
@@ -50,7 +49,6 @@
     "toolErrorBg": "toolErrorBg",
     "toolTitle": "warmMix",
     "toolOutput": "muted",
-
     "mdHeading": "green",
     "mdLink": "cyan",
     "mdLinkUrl": "dim",
@@ -61,11 +59,9 @@
     "mdQuoteBorder": "border",
     "mdHr": "border",
     "mdListBullet": "accent",
-
     "toolDiffAdded": "green",
     "toolDiffRemoved": "red",
     "toolDiffContext": "dim",
-
     "syntaxComment": "dim",
     "syntaxKeyword": "purple",
     "syntaxFunction": "blue",
@@ -75,14 +71,12 @@
     "syntaxType": "yellow",
     "syntaxOperator": "text",
     "syntaxPunctuation": "text",
-
     "thinkingOff": "border",
     "thinkingMinimal": "dim",
     "thinkingLow": "dim",
     "thinkingMedium": "dim",
     "thinkingHigh": "dim",
     "thinkingXhigh": "dim",
-
     "bashMode": "accent"
   },
   "export": {
@@ -91,22 +85,24 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "⛬",
+    "assistantPrefix": "\u26ec",
     "assistantPrefixColor": "#c45614",
     "userPrefixColor": "#b0a890",
-    "dividerChar": "─",
+    "dividerChar": "\u2500",
     "dividerColor": "#3d3a39",
     "showDivider": "false",
     "quoteStyle": "true",
-    "userPrefix": "│",
+    "userPrefix": "\u2502",
     "quoteColor": "#7bba5e",
-    "inputBorderColor": "#5c5855",
+    "inputBorderColor": "#D88B55",
     "bashPromptColor": "#05ff03",
     "tagBgColor": "#df9f72",
     "slashSelectedColor": "#d26825",
     "slashCommandColor": "#e8dcc0",
     "slashDescriptionColor": "#8f8a85",
     "slashHintColor": "#8f8a85",
-    "userBoxBorderColor": "#4d4947"
+    "userBoxBorderColor": "#4d4947",
+    "parensTextColor": "#D88B55",
+    "parensBracketColor": "#b9bb25"
   }
 }

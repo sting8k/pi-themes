@@ -21,9 +21,9 @@
     "bgCard": "#2c313a",
     "bgSubtle": "#3e4451",
     "userMsgBg": "",
-    "toolPendingBg": "",
-    "toolSuccessBg": "",
-    "toolErrorBg": "",
+    "toolPendingBg": "#2c313a",
+    "toolSuccessBg": "#2c313a",
+    "toolErrorBg": "#2c313a",
     "customMsgBg": "#2c313a"
   },
   "colors": {
@@ -38,7 +38,6 @@
     "dim": "dim",
     "text": "text",
     "thinkingText": "muted",
-
     "selectedBg": "bgSubtle",
     "userMessageBg": "userMsgBg",
     "userMessageText": "text",
@@ -50,7 +49,6 @@
     "toolErrorBg": "toolErrorBg",
     "toolTitle": "warmMix",
     "toolOutput": "muted",
-
     "mdHeading": "yellow",
     "mdLink": "blue",
     "mdLinkUrl": "purple",
@@ -61,11 +59,9 @@
     "mdQuoteBorder": "border",
     "mdHr": "border",
     "mdListBullet": "yellow",
-
     "toolDiffAdded": "green",
     "toolDiffRemoved": "red",
     "toolDiffContext": "dim",
-
     "syntaxComment": "dim",
     "syntaxKeyword": "purple",
     "syntaxFunction": "blue",
@@ -75,14 +71,12 @@
     "syntaxType": "yellow",
     "syntaxOperator": "cyan",
     "syntaxPunctuation": "text",
-
     "thinkingOff": "border",
     "thinkingMinimal": "dim",
     "thinkingLow": "dim",
     "thinkingMedium": "dim",
     "thinkingHigh": "dim",
     "thinkingXhigh": "dim",
-
     "bashMode": "green"
   },
   "export": {
@@ -91,22 +85,24 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "λ",
+    "assistantPrefix": "\u03bb",
     "assistantPrefixColor": "#61afef",
     "userPrefixColor": "#c8cdd6",
-    "dividerChar": "─",
+    "dividerChar": "\u2500",
     "dividerColor": "#3e4451",
     "showDivider": "false",
     "quoteStyle": "true",
-    "userPrefix": "│",
+    "userPrefix": "\u2502",
     "quoteColor": "#7cb863",
-    "inputBorderColor": "#5c6370",
+    "inputBorderColor": "#61afef",
     "bashPromptColor": "#98c379",
     "tagBgColor": "#61afef",
     "slashSelectedColor": "#61afef",
     "slashCommandColor": "#c8cdd6",
     "slashDescriptionColor": "#7f848e",
     "slashHintColor": "#5c6370",
-    "userBoxBorderColor": "#3e4451"
+    "userBoxBorderColor": "#3e4451",
+    "parensTextColor": "#61afef",
+    "parensBracketColor": "#c678dd"
   }
 }

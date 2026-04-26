@@ -21,9 +21,9 @@
     "bgCard": "#e8dbbf",
     "bgSubtle": "#ddceb0",
     "userMsgBg": "",
-    "toolPendingBg": "#f2e6cc",
-    "toolSuccessBg": "#f2e6cc",
-    "toolErrorBg": "#f2e6cc",
+    "toolPendingBg": "#e8dbbf",
+    "toolSuccessBg": "#e8dbbf",
+    "toolErrorBg": "#e8dbbf",
     "customMsgBg": "#e8dbbf"
   },
   "colors": {
@@ -94,13 +94,15 @@
     "quoteStyle": "true",
     "userPrefix": "\u2502",
     "quoteColor": "#387020",
-    "inputBorderColor": "#7e7268",
+    "inputBorderColor": "#994f10",
     "bashPromptColor": "#387020",
     "tagBgColor": "#994f10",
     "slashSelectedColor": "#7a3e0c",
     "slashCommandColor": "#111111",
     "slashDescriptionColor": "#6e6560",
     "slashHintColor": "#9a8e82",
-    "userBoxBorderColor": "#c5b494"
+    "userBoxBorderColor": "#c5b494",
+    "parensTextColor": "#994f10",
+    "parensBracketColor": "#5c6e0e"
   }
 }
