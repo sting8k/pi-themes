@@ -15,6 +15,7 @@ These preview images are only rough color references. I was too lazy to capture 
 | `monokai-pro` | ![monokai-pro](./docs/assets/monokai-pro.png) |
 | `monokai-pro-light` | ![monokai-pro-light](./docs/assets/monokai-pro-light.png) |
 | `onedark-pro` | ![onedark-pro](./docs/assets/onedark-pro.png) |
+| `onedark-darker` | ![onedark-darker](./docs/assets/onedark-darker.png) |
 | `onedark-pro-light` | ![onedark-pro-light](./docs/assets/onedark-pro-light.png) |
 | `e-ink` | ![e-ink](./docs/assets/e-ink.png) |
 | `e-ink-dark` | ![e-ink-dark](./docs/assets/e-ink-dark.png) |
@@ -57,7 +58,7 @@ Theme docs: https://github.com/badlogic/pi-mono/blob/main/packages/coding-agent/
 
 ## Themes
 
-`neapple`, `neapple-light`, `monokai-pro`, `monokai-pro-light`, `onedark-pro`, `onedark-pro-light`, `e-ink`, `e-ink-dark`, `gruvbox-light`, `noctis-lux`.
+`neapple`, `neapple-light`, `monokai-pro`, `monokai-pro-light`, `onedark-pro`, `onedark-darker`, `onedark-pro-light`, `e-ink`, `e-ink-dark`, `gruvbox-light`, `noctis-lux`.
 
 ## License
 
