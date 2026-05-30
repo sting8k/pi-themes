@@ -21,9 +21,9 @@
     "bgCard": "#222222",
     "bgSubtle": "#2A2A2A",
     "userMsgBg": "",
-    "toolPendingBg": "#202020",
-    "toolSuccessBg": "#202020",
-    "toolErrorBg": "#202020",
+    "toolPendingBg": "#181818",
+    "toolSuccessBg": "#181818",
+    "toolErrorBg": "#181818",
     "customMsgBg": "#222222"
   },
   "colors": {
