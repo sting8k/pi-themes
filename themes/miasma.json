@@ -24,7 +24,7 @@
     "toolPendingBg": "#181818",
     "toolSuccessBg": "#181818",
     "toolErrorBg": "#181818",
-    "customMsgBg": "#222222"
+    "customMsgBg": "bgCard"
   },
   "colors": {
     "accent": "accent",
@@ -65,7 +65,7 @@
     "syntaxComment": "dim",
     "syntaxKeyword": "purple",
     "syntaxFunction": "blue",
-    "syntaxVariable": "red",
+    "syntaxVariable": "text",
     "syntaxString": "green",
     "syntaxNumber": "orange",
     "syntaxType": "yellow",
@@ -86,23 +86,24 @@
   },
   "extras": {
     "assistantPrefix": "λ",
-    "assistantPrefixColor": "#8F9A5A",
-    "userPrefixColor": "#E8DFC7",
+    "assistantPrefixColor": "accent",
+    "userPrefixColor": "text",
     "dividerChar": "─",
-    "dividerColor": "#242D1D",
-    "showDivider": "false",
-    "quoteStyle": "true",
+    "dividerColor": "borderMuted",
+    "showDivider": false,
+    "quoteStyle": true,
     "userPrefix": "│",
-    "quoteColor": "#8F9A5A",
-    "inputBorderColor": "#8F9A5A",
-    "bashPromptColor": "#719A6A",
-    "tagBgColor": "#8F9A5A",
-    "slashSelectedColor": "#8F9A5A",
-    "slashCommandColor": "#E8DFC7",
-    "slashDescriptionColor": "#BEB498",
-    "slashHintColor": "#827B68",
-    "userBoxBorderColor": "#43492A",
-    "parensTextColor": "#8F9A5A",
-    "parensBracketColor": "#7A684F"
+    "quoteChar": "┆",
+    "quoteColor": "accent",
+    "inputBorderColor": "accent",
+    "bashPromptColor": "green",
+    "tagBgColor": "accent",
+    "slashSelectedColor": "accent",
+    "slashCommandColor": "text",
+    "slashDescriptionColor": "muted",
+    "slashHintColor": "dim",
+    "userBoxBorderColor": "border",
+    "parensTextColor": "accent",
+    "parensBracketColor": "purple"
   }
 }
