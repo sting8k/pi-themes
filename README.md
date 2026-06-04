@@ -57,7 +57,7 @@ Theme docs: https://github.com/badlogic/pi-mono/blob/main/packages/coding-agent/
 
 ## Themes
 
-`neapple`, `neapple-light`, `monokai-pro`, `monokai-pro-light`, `onedark-pro`, `onedark-darker`, `onedark-obsidian`, `onedark-pro-light`, `tokyo-dark`, `miasma`, `solarized-osaka`, `e-ink`, `e-ink-dark`, `gruvbox-light`, `noctis-lux`.
+`neapple`, `neapple-light`, `monokai-pro`, `monokai-pro-light`, `onedark-pro`, `onedark-darker`, `onedark-obsidian`, `onedark-pro-light`, `tokyo-dark`, `miasma`, `miasma-light`, `solarized-osaka`, `e-ink`, `e-ink-dark`, `gruvbox-light`, `noctis-lux`, `catppuccin`, `vesper`, `nord`, `dracula`.
 
 ## License
 
