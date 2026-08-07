@@ -85,7 +85,7 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "λ",
+    "assistantPrefix": "◆",
     "assistantPrefixColor": "#268BD3",
     "userPrefixColor": "#C7D1D1",
     "dividerChar": "─",

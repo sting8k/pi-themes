@@ -85,7 +85,7 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "\u03bb",
+    "assistantPrefix": "◆",
     "assistantPrefixColor": "#b81a56",
     "userPrefixColor": "#111111",
     "dividerChar": "\u2500",

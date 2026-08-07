@@ -92,7 +92,7 @@
     "infoBg": "bgSubtle"
   },
   "extras": {
-    "assistantPrefix": "λ",
+    "assistantPrefix": "◆",
     "assistantPrefixColor": "accent",
     "userPrefixColor": "blue",
     "dividerChar": "─",
